@@ -15,7 +15,7 @@
 
 # Preview
 
-![](![Screenshot (25)](https://github.com/user-attachments/assets/34377af7-98d5-4fe4-88e2-9d652f270c43
+!["](![Screenshot (25)](https://github.com/user-attachments/assets/34377af7-98d5-4fe4-88e2-9d652f270c43
  "Responsive React Movies App With API")
 
 !["](https://github.com/Omkar7910/react-movie-main/blob/main/images/Screenshot%20(26).png "Responsive React Movies App With API")
@@ -23,6 +23,9 @@
 ![]( "Responsive React Movies App With API")
 
 ![] "Responsive React Movies App With API")
+
 ![] "Responsive React Movies App With API")
+
 ![] "Responsive React Movies App With API")
+
 ![] "Responsive React Movies App With API")
